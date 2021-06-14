@@ -1,5 +1,5 @@
 # Plantilla de API en NodeJS
-- **Cambios que se deben hacer**.
+- **Cambios que se deben hacer para utilizar la plantilla.**
 	> Cambiar el valor de **name** en el archivo **package.json**.
 
     > Cambiar el valor de **description** en el archivo **package.json**.
